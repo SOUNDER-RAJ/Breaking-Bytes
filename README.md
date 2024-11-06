@@ -41,5 +41,4 @@ Run jessiepinkman.py: Jesse takes the JSON output, formats it for readability, a
 Say Y to save as a PDF (default name: Heisenberg.pdf).
 Say N to skip PDF storage but still view the readable JSON output.
 
-For more details and to see the code in action, check out the project on my GitHub: [GitHub link].
 
