@@ -3,7 +3,7 @@ ________________
 
 
 Overview
-In this project, I bring a bit of Breaking Bad flair to the field of digital forensics. With my code duo, Walter White (the analytical mastermind) and Jesse Pinkman (the presentation genius), I’ve created a methodical approach to extract, analyze, and present file metadata with Heisenberg’s precision.
+In this project, With my code duo, Walter White (the analytical mastermind) and Jesse Pinkman (the presentation genius), I’ve created a methodical approach to extract, analyze, and present file metadata with Heisenberg’s precision.
 Project Roles and Functionality
 1. Walter White (walterwhite.py): The “master chemist” of the setup, Walter meticulously extracts metadata from images and PDFs. His data analysis skills match his chemistry expertise, and he’s capable of retrieving everything from file creation and modification dates to detecting tampering in images using SSIM (Structural Similarity Index).
    * Core Functions:
