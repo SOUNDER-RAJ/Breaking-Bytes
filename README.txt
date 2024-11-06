@@ -53,5 +53,3 @@ Usage Flow (aka How to Cook the Perfect Batch)
    * Say N to skip PDF storage but still view the readable JSON output.
 ________________
 
-
-For more details and to see the code in action, check out the project on my GitHub: [GitHub link].
