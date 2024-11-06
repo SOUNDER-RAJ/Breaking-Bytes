@@ -1,4 +1,12 @@
+
 ﻿Project Title: Breaking Bytes
+
+Disclaimer:
+This script is for **educational** and **ethical purposes only**. Unauthorized tampering with files or data without consent is **illegal**.
+
+By using this script, you agree to follow all applicable laws and use it solely for legal and educational purposes. The author is not responsible for any misuse of this tool.
+
+
 ________________
 
 
