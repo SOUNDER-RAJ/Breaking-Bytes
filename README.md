@@ -1,6 +1,3 @@
-# Breaking-Bytes
-A project for metadata extraction &lt;IMAGE, PDF>
-
 Overview
 In this project, I bring a bit of Breaking Bad flair to the field of digital forensics. With my code duo, Walter White (the analytical mastermind) and Jesse Pinkman (the presentation genius), I’ve created a methodical approach to extract, analyze, and present file metadata with Heisenberg’s precision.
 Project Roles and Functionality
@@ -43,3 +40,6 @@ Run walterwhite.py: Input the directory or file path, and Walter will extract me
 Run jessiepinkman.py: Jesse takes the JSON output, formats it for readability, and prompts:
 Say Y to save as a PDF (default name: Heisenberg.pdf).
 Say N to skip PDF storage but still view the readable JSON output.
+
+For more details and to see the code in action, check out the project on my GitHub: [GitHub link].
+
