@@ -53,3 +53,6 @@ Usage Flow (aka How to Cook the Perfect Batch)
    * Say N to skip PDF storage but still view the readable JSON output.
 ________________
 
+
+"This project is intended for educational and ethical purposes, specifically for learning and understanding digital forensics, metadata analysis, and tampering detection. It should not be used for unauthorized access or tampering with files."
+
