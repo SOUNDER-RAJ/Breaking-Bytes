@@ -13,7 +13,7 @@ ________________
 Overview
 In this project, With my code duo, Walter White (the analytical mastermind) and Jesse Pinkman (the presentation genius), I’ve created a methodical approach to extract, analyze, and present file metadata with Heisenberg’s precision.
 Project Roles and Functionality
-1. Walter White (walterwhite.py): The “master chemist” of the setup, Walter meticulously extracts metadata from images and PDFs. His data analysis skills match his chemistry expertise, and he’s capable of retrieving everything from file creation and modification dates to detecting tampering in images using SSIM (Structural Similarity Index).
+1. Walter White (walterwhite.py): Walter meticulously extracts metadata from images and PDFs. His data analysis skills match his chemistry expertise, and he’s capable of retrieving everything from file creation and modification dates to detecting tampering in images using SSIM (Structural Similarity Index).
    * Core Functions:
       * File Hashing: Generates SHA-256 hash values to ensure data integrity.
       * Image Metadata Extraction: Uses exiftool to retrieve essential image metadata (like EXIF data and camera details).
